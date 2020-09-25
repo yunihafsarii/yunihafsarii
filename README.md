@@ -13,5 +13,5 @@ Here are something about me:
 
 
 ### My Blog Post :
-https://medium.com/@yyunisari158/end-to-end-machine-learning-project-b3387aabde3c
-https://medium.com/@yyunisari158/basic-rnns-1c4b18d70a3f 
+- https://medium.com/@yyunisari158/end-to-end-machine-learning-project-b3387aabde3c
+- https://medium.com/@yyunisari158/basic-rnns-1c4b18d70a3f 
