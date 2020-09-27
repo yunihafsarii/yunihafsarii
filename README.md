@@ -15,6 +15,8 @@ Here are something about me:
 - [Neural Networks and Deep Learning (Coursera)](https://www.coursera.org/account/accomplishments/verify/ZYUY9C8Q4ZRA)
 
 ### My Project so far:
+- predicting hate speech 
+- predicting hashtag for stackoverflow 
 
 
 ### Create some blog posts for the purpose of summarizing my knowledge :
