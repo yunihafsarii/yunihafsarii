@@ -17,6 +17,7 @@ Here are something about me:
 ### My Project so far:
 - predicting hate speech 
 - predicting hashtag for stackoverflow 
+- EDA on stackoverfl developer dataset 
 
 
 ### Create some blog posts for the purpose of summarizing my knowledge :
