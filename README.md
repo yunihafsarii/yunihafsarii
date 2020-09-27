@@ -8,7 +8,11 @@ Here are something about me:
 - 🌱 I’m currently learning about Deep Learning and Natural Language Processing
 - 💬 Recently I have been tracking my data science journey in my twitter account [@yunihafsarii](https://twitter.com/yunihafsarii)
 
-do you want to put your online courses here??
+### Apart from University, I actively seek knowledge from online courses
+- [fast.ai course: A Code-First Introduction to Natural Language Processing (Ongoing)](https://www.fast.ai/2019/07/08/fastai-nlp/)
+- [Natural Language Processing in Tensorflow (Coursera)](https://www.coursera.org/account/accomplishments/verify/KXQYERBDRXVK)
+- [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/GZCLJKW8PPC8)
+- [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/ZYUY9C8Q4ZRA)
 
 ### My Project so far:
 
