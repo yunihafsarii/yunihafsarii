@@ -14,13 +14,25 @@ Here are something about me:
 - [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization (Coursera)](https://www.coursera.org/account/accomplishments/verify/GZCLJKW8PPC8)
 - [Neural Networks and Deep Learning (Coursera)](https://www.coursera.org/account/accomplishments/verify/ZYUY9C8Q4ZRA)
 
-### My Project so far:
-- predicting hate speech 
-- predicting hashtag for stackoverflow 
-- EDA on stackoverflow developer dataset 
-
-
 ### Create some blog posts for my personal journal :
 - [End-to-End Machine Learning Project](https://medium.com/@yyunisari158/end-to-end-machine-learning-project-b3387aabde3c)
 - [Basic RNNs](https://medium.com/@yyunisari158/basic-rnns-1c4b18d70a3f)
 - [RNN with more sophisticated memory cell and architecture (LSTM, GRU and Attention)](https://medium.com/@yyunisari158/rnn-with-more-sophisticated-memory-cell-and-architecture-lstm-gru-and-attention-528fc942d5af)
+
+### My Project so far:
+- [Wikipedia Analysis](https://github.com/yunihafsarii/gender-classification-NLP) 
+  Crawled biography on wikipedia and found that there is gender bias where men related articles are always dominant over time. In addition, I also crawled the  discussion forum for each of the biography and discovered more negative sentiment among wikipedia contributor when women related article is discussed
+  
+  Libraries: Pandas, Nltk, BeautifulSoup, VaderSentiment, TextBlob, Matplotlib
+  
+- [Top TED Talk Speaker Analysis](https://github.com/yunihafsarii/TED-Talk-Top-Speaker-analysis-through-NLP-)
+  Crawled the script of the Top TED Talk Speaker and discovered that specific topics and the way they deliver the talk might be reasons for their outstanding performance
+  
+  Libraries: Pandas, Matplotlib, Scikit-learn, BeautifulSoup, WordCloud, Gensim
+  
+- [Name-Entity Recognition for Stackoverflow Dataset](https://github.com/yunihafsarii/Name-Entity-Recognition)
+  Built LSTM model for tag classification in stackoverflow post 
+  
+  Libraries: Numpy, Tensorflow 
+  
+
