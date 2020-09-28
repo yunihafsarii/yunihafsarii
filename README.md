@@ -31,7 +31,7 @@ Here are something about me:
   Libraries: Pandas, Matplotlib, Scikit-learn, BeautifulSoup, WordCloud, Gensim
   
 - [Name-Entity Recognition](https://github.com/yunihafsarii/Name-Entity-Recognition)
-  Built LSTM model for name entity recognition in stackoverflow dataset 
+  Built LSTM model for name entity recognition on stackoverflow dataset 
   
   Libraries: Numpy, Tensorflow 
   
