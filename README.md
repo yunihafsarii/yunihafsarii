@@ -23,30 +23,31 @@ Here are something about me:
 - [Wikipedia Analysis](https://github.com/yunihafsarii/gender-classification-NLP) 
   Crawled biography on wikipedia and found that there is gender bias where men related articles are always dominant over time. In addition, I also crawled the  discussion forum for each of the biography and discovered more negative sentiment among wikipedia contributor when women related article is discussed
   
-  Libraries: Pandas, Nltk, BeautifulSoup, VaderSentiment, TextBlob, Matplotlib
+  **Libraries:** Pandas, Nltk, BeautifulSoup, VaderSentiment, TextBlob, Matplotlib
   
 - [Top TED Talk Speaker Analysis](https://github.com/yunihafsarii/TED-Talk-Top-Speaker-analysis-through-NLP-)
   Crawled the script of the Top TED Talk Speaker and discovered that specific topics and the way they deliver the talk might be reasons for their outstanding performance
   
-  Libraries: Pandas, Matplotlib, Scikit-learn, BeautifulSoup, WordCloud, Gensim
+  **Libraries:** Pandas, Matplotlib, Scikit-learn, BeautifulSoup, WordCloud, Gensim
   
 - [EDA on German-US Developer](https://github.com/yunihafsarii/US-Developer-VS-German-Developer)
   Conducted Exploratory Analysis on Developer Survey Dataset to find the difference between developers in Germany and US 
   
-  Libraries: Pandas, Matplotlib, Numpy
+  **Libraries:** Pandas, Matplotlib, Numpy
   
 - [Hate Speech Classification](https://github.com/yunihafsarii/Hate-Speech-Detection)
-  Achieved 85% accuracy ton hate speech classfication using SVM
-  Libraries: Pandas, Numpy, Scikit-learn
+  Achieved 85% accuracy on hate speech classfication using SVM
+  
+  **Libraries:** Pandas, Numpy, Scikit-learn
   
 - [Tags Classification on Stackoverflow](https://github.com/yunihafsarii/Tag-Prediction-on-StackOverflow)
   Achieved 66% accuracy to predict tags on stalkoverflow question using linear regression 
 
-  Libraries: Pandas, Numpy, Scikit-learn
+  **Libraries:** Pandas, Numpy, Scikit-learn
   
 - [Name-Entity Recognition](https://github.com/yunihafsarii/Name-Entity-Recognition)
   Built LSTM model for name entity recognition on stackoverflow dataset 
   
-  Libraries: Numpy, Tensorflow 
+  **Libraries:** Numpy, Tensorflow 
   
 
