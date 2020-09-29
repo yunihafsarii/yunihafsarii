@@ -30,6 +30,11 @@ Here are something about me:
   
   Libraries: Pandas, Matplotlib, Scikit-learn, BeautifulSoup, WordCloud, Gensim
   
+- [EDA on German-US Developer](https://github.com/yunihafsarii/US-Developer-VS-German-Developer)
+  Conducted Exploratory Analysis on Developer Survey to find the difference between developers in Germany and US 
+  
+  Libraries: Pandas, Matplotlib, Numpy
+  
 - [Name-Entity Recognition](https://github.com/yunihafsarii/Name-Entity-Recognition)
   Built LSTM model for name entity recognition on stackoverflow dataset 
   
