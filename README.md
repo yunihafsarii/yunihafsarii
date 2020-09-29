@@ -31,16 +31,18 @@ Here are something about me:
   Libraries: Pandas, Matplotlib, Scikit-learn, BeautifulSoup, WordCloud, Gensim
   
 - [EDA on German-US Developer](https://github.com/yunihafsarii/US-Developer-VS-German-Developer)
-  Conducted Exploratory Analysis on Developer Survey to find the difference between developers in Germany and US 
+  Conducted Exploratory Analysis on Developer Survey Dataset to find the difference between developers in Germany and US 
   
   Libraries: Pandas, Matplotlib, Numpy
+  
+- [Tags Classification on Stackoverflow](https://github.com/yunihafsarii/Tag-Prediction-on-StackOverflow)
+  Achieved 66% accuracy to predict tags on stalkoverflow question using linear regression 
+
+  Libraries: Pandas, Numpy, Scikit-learn, 
   
 - [Name-Entity Recognition](https://github.com/yunihafsarii/Name-Entity-Recognition)
   Built LSTM model for name entity recognition on stackoverflow dataset 
   
   Libraries: Numpy, Tensorflow 
   
-- [Tags Classification on Stackoverflow](https://github.com/yunihafsarii/Tag-Prediction-on-StackOverflow)
-  Achieved 66% accuracy to predict tags on stalkoverflow question using linear regression 
 
-  Libraries: Pandas, Numpy, Scikit-learn, 
