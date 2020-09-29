@@ -35,10 +35,14 @@ Here are something about me:
   
   Libraries: Pandas, Matplotlib, Numpy
   
+- [Hate Speech Classification](https://github.com/yunihafsarii/Hate-Speech-Detection)
+  Achieved 85% accuracy ton hate speech classfication using SVM
+  Libraries: Pandas, Numpy, Scikit-learn
+  
 - [Tags Classification on Stackoverflow](https://github.com/yunihafsarii/Tag-Prediction-on-StackOverflow)
   Achieved 66% accuracy to predict tags on stalkoverflow question using linear regression 
 
-  Libraries: Pandas, Numpy, Scikit-learn, 
+  Libraries: Pandas, Numpy, Scikit-learn
   
 - [Name-Entity Recognition](https://github.com/yunihafsarii/Name-Entity-Recognition)
   Built LSTM model for name entity recognition on stackoverflow dataset 
