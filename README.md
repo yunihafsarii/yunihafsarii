@@ -5,7 +5,7 @@
 Here are something about me:
 
 - 🔭 I’m currently working on Hate Speech Detection for Low Resource Language 
-- 🌱 I’m currently learning about Deep Learning and Natural Language Processing
+- 🌱 I’m currently learning about Pytorch, concept of Deep Learning and Natural Language Processing
 - 💬 Recently I have been tracking my data science journey in my twitter account [@yunihafsarii](https://twitter.com/yunihafsarii)
 
 ### Apart from University, I actively seek knowledge from online courses
