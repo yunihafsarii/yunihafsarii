@@ -4,7 +4,7 @@
 
 Here are something about me:
 
-- 🔭 I’m currently working on Hate Speech Detection and Conversational AI 
+- 🔭 I’m currently working on Medical Knowledge Graph 
 - 🌱 I’m currently learning about Pytorch
 
 
